@@ -42,3 +42,4 @@ int resultado = somaDoisNumeros.Somar(20, 22);
 Console.WriteLine(resultado);
 
 int milimetros = MetrosMilimetros.Converter(2);
+Console.WriteLine(milimetros);
